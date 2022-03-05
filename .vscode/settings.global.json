@@ -1,0 +1,37 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Dracula Soft",
+  "editor.minimap.enabled": false,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": true,
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+  },
+  "gitlens.currentLine.enabled": true,
+  "gitlens.hovers.currentLine.enabled": true,
+  "gitlens.keymap": "chorded",
+  "extensions.ignoreRecommendations": false,
+  "php.suggest.basic": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.largeFileOptimizations": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.eol": "\n",
+  "scm.alwaysShowRepositories": true,
+  "tabnine.experimentalAutoImports": true
+}

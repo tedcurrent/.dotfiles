@@ -1,0 +1,19 @@
+Everything should be golden with settings sync, but just in case, here's a list of my main extensions:
+- Apollo GraphQL
+- Auto Close Tag
+- Code Outline
+- Color highlighting
+- Dracula Official
+- ESLint
+- Github Pull Requests and Issues
+- GitLens
+- Import Cost
+- iOS Common files
+- Markdown All in One
+- Prettier
+- Rainbow CSV
+- React Native Storybook
+- React Native Tools
+- Tabnine
+- TODO Highlight
+- vscode-icons

@@ -1,0 +1,6 @@
+- [nvm](https://github.com/nvm-sh/nvm)
+- [homebrew](https://brew.sh/)
+- [fira code](https://github.com/tonsky/FiraCode)
+- [nerd font, fira code](https://www.nerdfonts.com/font-downloads)
+- [httpie](https://httpie.io/)
+- [vscode](https://code.visualstudio.com/)

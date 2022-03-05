@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "eslint.format.enable": true,
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "typescript.preferences.importModuleSpecifier": "relative",
+}
